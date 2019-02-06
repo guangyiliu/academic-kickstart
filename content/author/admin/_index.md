@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Guangyi Liu"
+name = "Guangyi Liu-test"
 
 # Is this the primary user of the site?
 superuser = true
