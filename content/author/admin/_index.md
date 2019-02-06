@@ -69,5 +69,5 @@ interests = [
 
 +++
 Guangyi Liu is CTO and Department Head of AI & Its Application Group at GEIRI North America. He received his B.S and M.S.degree in EE from Harbin Institute of Technology, and his Ph.D. degree from China Electric Power Research Institute. 
-Dr. Liu is serves as the editor of CSEE Journal of Power and Energy System, and the task force Chair of Superfast EMS appliactions of IEEE.
-Dr.Liu has authored/co-suthored 3 books and over 160 journal and conmference papers. He is the main contributor to the first generation EMS application software in China and got the Chinese Science and Technology Achiement Award in 1998. He is the inventor of over 20 patents/patent applications. Prior to joining GEIRI North America in 2014, Dr. Liu hold various lead and research positiond at China EPRI, PTI and ABB.
+Dr. Liu is serves as the editor of CSEE Journal of Power and Energy System, and the task force Chair of Superfast EMS appliaction software of IEEE.
+Dr.Liu has authored/co-suthored 3 books and over 160 journal and conmference papers. He is the main contributor to the first generation EMS application software in China and got the Chinese Science and Technology Achiement Award in 1998. He is the inventor of over 20 patents/patent applications. Prior to joining GEIRI North America in 2014, Dr. Liu hold various lead and research positions at China EPRI, PTI and ABB.
