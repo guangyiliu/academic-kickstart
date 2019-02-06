@@ -80,5 +80,5 @@ interests = [
 
 +++
 
-Nelson Bighetti is CTO and Department Head of AI & Its Application Group at GEIRI North America. His research interests include Energy Management System (EMS), Active Distribution System, Smart Grid Big Data, AI & Its Application in Power System, Graph Computing, Knowledge Graph.
+Guangyi Liu is CTO and Department Head of AI & Its Application Group at GEIRI North America. His research interests include Energy Management System (EMS), Active Distribution System, Smart Grid Big Data, AI & Its Application in Power System, Graph Computing, Knowledge Graph.
 
