@@ -59,16 +59,6 @@ interests = [
 #  icon_pack = "fab"
 #  link = "https://twitter.com/GeorgeCushen"
 
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=guangyi liu"
-
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/guangyiliu"
-
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
@@ -77,6 +67,3 @@ interests = [
 #   link = "files/cv.pdf"
 
 +++
-
-Guangyi Liu is CTO and Department Head of AI & Its Application Group at GEIRI North America. His research interests include Energy Management System (EMS), Active Distribution System, Smart Grid Big Data, AI & Its Application in Power System, Graph Computing, Knowledge Graph.
-
