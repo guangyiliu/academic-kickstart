@@ -5,7 +5,7 @@ widget = "publications"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Recent Publications"
-subtitle = [ { name = "More Publications-test", url = "https://guangyiliu.netlify.com/publication/"} ]
+subtitle = ""
 
 # Order that this section will appear in.
 weight = 20
