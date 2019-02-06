@@ -5,8 +5,7 @@ widget = "publications"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Recent Publications"
-subtitle = "Qingxin Shi, Fangxing Li, Guangyi Liu, Thermostatic Load Control for System
-Frequency Regulation Considering Daily Demand Profile and Progressive Recovery, IEEE Trans. on Smart Grid, 2019"
+subtitle = "111"
 
 # Order that this section will appear in.
 weight = 20
