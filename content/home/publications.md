@@ -5,7 +5,8 @@ widget = "publications"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "Qingxin Shi, Fangxing Li, Guangyi Liu, Thermostatic Load Control for System
+Frequency Regulation Considering Daily Demand Profile and Progressive Recovery, IEEE Trans. on Smart Grid, 2019"
 
 # Order that this section will appear in.
 weight = 20
@@ -18,7 +19,7 @@ count = 10
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view = 2
+view = 1
 
 # Filter by publication type.
 # -1: Any
