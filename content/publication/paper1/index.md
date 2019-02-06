@@ -1,5 +1,5 @@
 +++
-title = "主动配电网规划与运行"
+title = "主动配电网规划与运行，Planning and Operation of Active Distribution Network"
 date = 2018-09-01T00:00:00
 draft = false
 
