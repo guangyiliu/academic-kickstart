@@ -10,7 +10,7 @@ role = "CTO and Department Head of AI & Its Application"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "GEIRI North America", url = "" } ]
+organizations = [ { name = "GEIRI North America", url = "https://geirina.net/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Guangyi Liu is CTO of GEIRI North America and Department Head of AI & Its Application Group. He received his B.S and M.S.degree in EE from Harbin Institute of Technology, and his Ph.D. degree from China Electric Power Research Institute. 
