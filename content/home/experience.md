@@ -25,10 +25,7 @@ date_format = "January 2006"
   location = "California"
   date_start = "2014-11-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Leading R&D projects on smart grid big data analysis, graph computing based Energy Management System, Integrated Energy System and Power Equipment management knowledge graph
+  description = """Leading R&D projects on smart grid big data analysis, graph computing based Energy Management System, Integrated Energy System and Power Equipment management knowledge graph
   """
 
 [[experience]]
