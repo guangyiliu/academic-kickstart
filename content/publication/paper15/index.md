@@ -1,6 +1,5 @@
 +++
-title = "Decomposition Model and Interior Point Methods for Optimal Spot Pricing of Electricity in Deregulation
-Environments"
+title = "Decomposition Model and Interior Point Methods for Optimal Spot Pricing of Electricity in Deregulation Environments"
 date = 2000-03-01T00:00:00
 draft = false
 
