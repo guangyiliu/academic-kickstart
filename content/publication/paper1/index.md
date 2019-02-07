@@ -1,10 +1,10 @@
 +++
-title = "Test2-配电自动化及其发展，Test-Distribution Power System Automation and Its Development"
+title = "Thermostatic Load Control for System Frequency Regulation Considering Daily Demand Profile and Progressive Recovery"
 date = 1998-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["王明俊，于尔铿，刘广一"]
+authors = ["Qingxin Shi, Fangxing Li, Guangyi Liu"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["王明俊，于尔铿，刘广一"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["5"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "中国电力出版社"
+publication = "IEEE Trans on Smart Grid"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
