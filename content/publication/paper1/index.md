@@ -1,6 +1,6 @@
 +++
 title = "Thermostatic Load Control for System Frequency Regulation Considering Daily Demand Profile and Progressive Recovery"
-date = 1998-09-01T00:00:00
+date = 2019-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
