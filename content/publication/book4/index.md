@@ -1,10 +1,10 @@
 +++
-title = "主动配电网规划与运行test，Planning and Operation of Active Distribution Network test"
-date = 2018-09-01T00:00:00
+title = "Test-配电自动化及其发展，Distribution Power System Automation and Its Development"
+date = 1998-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["刘广一"]
+authors = ["王明俊，于尔铿，刘广一"]
 
 # Publication type.
 # Legend:
