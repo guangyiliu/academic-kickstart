@@ -1,5 +1,5 @@
 +++
-title = "Test-配电自动化及其发展，Distribution Power System Automation and Its Development"
+title = "Test-配电自动化及其发展，Test-Distribution Power System Automation and Its Development"
 date = 1998-09-01T00:00:00
 draft = false
 
