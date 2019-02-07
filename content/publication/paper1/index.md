@@ -1,10 +1,11 @@
 +++
-title = "A Person Re-Identification System For Mobile Devices"
-date = 2015-09-01T00:00:00
+title = "Thermostatic Load Control for System Frequency Regulation Considering Daily
+Demand Profile and Progressive Recovery"
+date = 2019-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen"]
+authors = ["Qingxin Shi, Fangxing Li, Guangyi Liu"]
 
 # Publication type.
 # Legend:
@@ -18,7 +19,7 @@ authors = ["GA Cushen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Signal Image Technology & Internet Systems (SITIS)*, IEEE."
+publication = "In *Smart Grid*, IEEE."
 publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
