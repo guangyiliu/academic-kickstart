@@ -1,7 +1,6 @@
 +++
-title = "电能调频和运行备用同时优化的数学模型与结算价格分析, Mathematical Model and Clearing Price Analysis of Co-optimization of 
-Energy Regulation an dOperating Reserves"
-date = 2017-04-01T00:00:00
+title = "电能调频和运行备用同时优化的数学模型与结算价格分析"
+date = 2014-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
