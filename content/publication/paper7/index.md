@@ -1,6 +1,6 @@
 +++
 title = "Graph Based Power Flow Calculation for Energy Management System"
-date = 2017-08-01T00:00:00
+date = 2018-08-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
