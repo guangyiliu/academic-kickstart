@@ -34,4 +34,4 @@ publication_type = "-1"
 # Exclude publications that are shown in the Featured Publications widget?
 exclude_featured = false
 +++
-1.	Wei Feng, Chen Yuan. Renchang Dai, Guangyi Liu, Fangxing Li, “Graph Computation based Power Flow for Large-Scale AC/DC System”, 2018 International Conference on Power System Technology (POWERCON 2018) Guangzhou, 6-8 Nov. 2018
+1.	刘广一,  “主动配电网规划与运行，Planning and Operation of Active Distribution Network”, 2018 中国电力出版社(SITIS 2018)
