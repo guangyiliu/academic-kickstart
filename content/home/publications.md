@@ -35,3 +35,4 @@ publication_type = "-1"
 exclude_featured = false
 +++
 1.	刘广一,  “主动配电网规划与运行，Planning and Operation of Active Distribution Network”, 2018 中国电力出版社(SITIS 2018)
+2.  于尔铿，刘广一，周京阳, "能量管理系统（EMS），Energy Management System (EMS)", 1998 中国电力出版社(SITIS 2018)
