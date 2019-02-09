@@ -51,3 +51,4 @@ exclude_featured = false
 15. LIU Kewen, ZHANG Guofang, YUAN Chen, LIU Guangyi, "基于图计算的快速非线性迭代法求解潮流计算" 电力信息与通信技术, 2018
 16. Liu Guangyi, Yu Erkeng, Y.H. Song, "Novel algorithms to estimate and adaptively update measurement error variance using power system state estimation results" Electric Power Systems Research 1998
 17. Kai Xie, Yu Erkeng, Guangyi Liu, "Decomposition Model and Interior Point Methods for Optimal Spot Pricing of Electricity in Deregulation Environments" IEEE Trans Power System 2000
+18. Guangyi Liu, Xi Chen, Zhiwei Wang, "Evolving Graph Based Power System EMS Real Time Analysis Framework" IEEE Conference on Ciucuit and System 2018
