@@ -2,7 +2,7 @@
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
 title = "Publications"
 subtitle = ""
@@ -34,4 +34,4 @@ publication_type = "-1"
 # Exclude publications that are shown in the Featured Publications widget?
 exclude_featured = false
 +++
-
+1.	Wei Feng, Chen Yuan. Renchang Dai, Guangyi Liu, Fangxing Li, “Graph Computation based Power Flow for Large-Scale AC/DC System”, 2018 International Conference on Power System Technology (POWERCON 2018) Guangzhou, 6-8 Nov. 2018
