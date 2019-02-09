@@ -34,5 +34,8 @@ publication_type = "-1"
 # Exclude publications that are shown in the Featured Publications widget?
 exclude_featured = false
 +++
-1.	刘广一,  “主动配电网规划与运行，Planning and Operation of Active Distribution Network”, 2018 中国电力出版社(SITIS 2018)
-2.  于尔铿，刘广一，周京阳, "能量管理系统（EMS），Energy Management System (EMS)", 1998 中国电力出版社(SITIS 2018)
+1.	刘广一,  “主动配电网规划与运行，Planning and Operation of Active Distribution Network”, 2018 中国电力出版社
+2.  于尔铿，刘广一，周京阳, "能量管理系统（EMS），Energy Management System (EMS)", 1998 中国电力出版社
+3.  王明俊，于尔铿，刘广一, "配电自动化及其发展，Distribution Power System Automation and Its Development" 1998 中国电力出版社
+4.  Qingxin Shi, Fangxing Li, Guangyi Liu, "Thermostatic Load Control for System Frequency Regulation Considering Daily Demand Profile and Progressive Recovery" IEEE Trans on Smart Grid, 2019
+5.
